@@ -34,10 +34,6 @@ This is a learning project built to understand and implement modern web developm
 - A Supabase account (free tier works fine)
 
 ### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/machadop1407/social-media-vite-supabase.git
-cd social-media-vite-supabase
 ```
 
 ### Step 2: Install Dependencies
@@ -88,17 +84,3 @@ This is a learning project, but contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-- The React team
-- Supabase team
-- The original tutorial creator
-
----
-
-⚠️ Note: This is a learning project and not intended for production use. It's meant to demonstrate various web development concepts and practices.
